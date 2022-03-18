@@ -20,4 +20,4 @@ You can compose a note also by some virtuall instruments provided by the UI.
 * In another tabs, you will find the virtual instruments where you can compose a little piece of music for you.
 <br />
 <br />
-![machine diagram](https://github.com/Safwanmahmoud/cccc/blob/main/wiringdiagram.png)
+![machine diagram](https://github.com/Safwanmahmoud/Music-Equalizer/blob/main/Untitled.png)
